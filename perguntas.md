@@ -17,3 +17,7 @@ R. juncao de 2 Branch
 5 - oque e pull?
 
 R. traduzindo puxa, traz as alteracoes de um repositorio remoto para local.
+
+6 - oque e branch?
+
+R.ramificação de um repositorio 
