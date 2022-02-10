@@ -13,3 +13,7 @@ R. e um diretorio onde os arquivos do seu projeto ficam armazenado
 4 - oque e marge?
 
 R. juncao de 2 Branch
+
+5 - oque e pull?
+
+R. traduzindo puxa, traz as alteracoes de um repositorio remoto para local.
